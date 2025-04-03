@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Estilo padrão do aplicativo -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+        <item name="android:colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- Estilo para o botão -->
+    <style name="ButtonStyle">
+        <item name="android:background">#FF6347</item> <!-- Cor de fundo do botão -->
+        <item name="android:textColor">#FFFFFF</item> <!-- Cor do texto -->
+        <item name="android:textSize">18sp</item> <!-- Tamanho do texto -->
+    </style>
+
+</resources>
